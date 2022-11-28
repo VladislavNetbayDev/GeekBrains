@@ -1,0 +1,15 @@
+C:\Geekbrains\dotnet\Lesson01\homework\Task04\bin\Debug\net6.0\Task04.exe
+C:\Geekbrains\dotnet\Lesson01\homework\Task04\bin\Debug\net6.0\Task04.deps.json
+C:\Geekbrains\dotnet\Lesson01\homework\Task04\bin\Debug\net6.0\Task04.runtimeconfig.json
+C:\Geekbrains\dotnet\Lesson01\homework\Task04\bin\Debug\net6.0\Task04.dll
+C:\Geekbrains\dotnet\Lesson01\homework\Task04\bin\Debug\net6.0\Task04.pdb
+C:\Geekbrains\dotnet\Lesson01\homework\Task04\obj\Debug\net6.0\Task04.csproj.AssemblyReference.cache
+C:\Geekbrains\dotnet\Lesson01\homework\Task04\obj\Debug\net6.0\Task04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Geekbrains\dotnet\Lesson01\homework\Task04\obj\Debug\net6.0\Task04.AssemblyInfoInputs.cache
+C:\Geekbrains\dotnet\Lesson01\homework\Task04\obj\Debug\net6.0\Task04.AssemblyInfo.cs
+C:\Geekbrains\dotnet\Lesson01\homework\Task04\obj\Debug\net6.0\Task04.csproj.CoreCompileInputs.cache
+C:\Geekbrains\dotnet\Lesson01\homework\Task04\obj\Debug\net6.0\Task04.dll
+C:\Geekbrains\dotnet\Lesson01\homework\Task04\obj\Debug\net6.0\refint\Task04.dll
+C:\Geekbrains\dotnet\Lesson01\homework\Task04\obj\Debug\net6.0\Task04.pdb
+C:\Geekbrains\dotnet\Lesson01\homework\Task04\obj\Debug\net6.0\Task04.genruntimeconfig.cache
+C:\Geekbrains\dotnet\Lesson01\homework\Task04\obj\Debug\net6.0\ref\Task04.dll
