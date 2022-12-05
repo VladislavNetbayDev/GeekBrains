@@ -17,9 +17,3 @@ if (value2 > value1)
 }
 System.Console.WriteLine($"Наибольшее число {max}");
 
-// git init
-// git add README.md
-// git commit -m "first commit"
-// git branch -M main
-// git remote add origin https://github.com/VladislavNetbayDev/HomeWork.git
-// git push -u origin main
