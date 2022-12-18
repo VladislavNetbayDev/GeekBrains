@@ -1,0 +1,85 @@
+// Задача 1: Напишите программу, которая на вход принимает два числа и выдаёт, какое число большее, а какое меньшее.
+
+// a = 5; b = 7 -> max = 7
+// a = 2 b = 10 -> max = 10
+// a = -9 b = -3 -> max = -3
+System.Console.WriteLine("Введите число N1 ");
+string inputValue1 = Console.ReadLine();
+int value1 = Convert.ToInt32(inputValue1);
+
+System.Console.WriteLine("Введите число N2 ");
+string inputValue2 = Console.ReadLine();
+int value2 = Convert.ToInt32(inputValue2);
+int max = value1;
+if (value2 > value1)
+{
+    max = value2;
+}
+System.Console.WriteLine($"Наибольшее число {max}");
+
+// Задача 2: Напишите программу, которая принимает на вход три числа и выдаёт максимальное из этих чисел.
+
+// 2, 3, 7 -> 7
+// 44 5 78 -> 78
+// 22 3 9 -> 22
+
+System.Console.WriteLine("Введите число N1: ");
+string inputValue1 = Console.ReadLine();
+int N1 = Convert.ToInt32(inputValue1);
+
+System.Console.WriteLine("Введите число N2: ");
+string inputValue2 = Console.ReadLine();
+int N2 = Convert.ToInt32(inputValue2);
+
+System.Console.WriteLine("Введите число N3: ");
+string inputValue3 = Console.ReadLine();
+int N3 = Convert.ToInt32(inputValue3);
+
+int max = N1;
+if (N2 > max) 
+{
+    max = N2;
+}
+if (N3 > max) 
+{
+    max = N3;
+}
+System.Console.WriteLine($"Максимальное из трёх чисел = {max}");
+
+
+
+
+// Задача 3: Напишите программу, которая на вход принимает число и выдаёт, является ли число чётным (делится ли оно на два без остатка).
+
+// 4 -> да
+// -3 -> нет
+// 7 -> нет
+System.Console.WriteLine("Введите число: ");
+string N = Console.ReadLine();
+int A = Convert.ToInt32(N);
+
+if (A % 2 == 0)
+{
+    System.Console.WriteLine("Является");
+}
+else 
+{
+    System.Console.WriteLine("Не является");
+
+
+
+// Задача 4: Напишите программу, которая на вход принимает число (N), а на выходе показывает все чётные числа от 1 до N.
+
+// 5 -> 2, 4
+// 8 -> 2, 4, 6, 8
+System.Console.WriteLine("Введите число N");
+string value = Console.ReadLine();
+int N = Convert.ToInt32(value);
+for (int A = 1; A <= N; A ++)
+{
+    if (A % 2 ==0)
+    {
+        System.Console.Write($"Список четных чисел от 1 до {N}");
+        System.Console.WriteLine(A);
+    }
+}

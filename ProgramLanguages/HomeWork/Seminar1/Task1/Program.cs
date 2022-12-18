@@ -17,4 +17,3 @@ if (value2 > value1)
 }
 System.Console.WriteLine($"Наибольшее число {max}");
 
-git remote add origin https://github.com/VladislavNetbayDev/HomeWork.git

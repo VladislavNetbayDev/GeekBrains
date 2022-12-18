@@ -1,0 +1,15 @@
+C:\Study\Geekbrains\ProgramLanguages\Seminar4\Examples01\bin\Debug\net6.0\Examples01.exe
+C:\Study\Geekbrains\ProgramLanguages\Seminar4\Examples01\bin\Debug\net6.0\Examples01.deps.json
+C:\Study\Geekbrains\ProgramLanguages\Seminar4\Examples01\bin\Debug\net6.0\Examples01.runtimeconfig.json
+C:\Study\Geekbrains\ProgramLanguages\Seminar4\Examples01\bin\Debug\net6.0\Examples01.dll
+C:\Study\Geekbrains\ProgramLanguages\Seminar4\Examples01\bin\Debug\net6.0\Examples01.pdb
+C:\Study\Geekbrains\ProgramLanguages\Seminar4\Examples01\obj\Debug\net6.0\Examples01.csproj.AssemblyReference.cache
+C:\Study\Geekbrains\ProgramLanguages\Seminar4\Examples01\obj\Debug\net6.0\Examples01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\Geekbrains\ProgramLanguages\Seminar4\Examples01\obj\Debug\net6.0\Examples01.AssemblyInfoInputs.cache
+C:\Study\Geekbrains\ProgramLanguages\Seminar4\Examples01\obj\Debug\net6.0\Examples01.AssemblyInfo.cs
+C:\Study\Geekbrains\ProgramLanguages\Seminar4\Examples01\obj\Debug\net6.0\Examples01.csproj.CoreCompileInputs.cache
+C:\Study\Geekbrains\ProgramLanguages\Seminar4\Examples01\obj\Debug\net6.0\Examples01.dll
+C:\Study\Geekbrains\ProgramLanguages\Seminar4\Examples01\obj\Debug\net6.0\refint\Examples01.dll
+C:\Study\Geekbrains\ProgramLanguages\Seminar4\Examples01\obj\Debug\net6.0\Examples01.pdb
+C:\Study\Geekbrains\ProgramLanguages\Seminar4\Examples01\obj\Debug\net6.0\Examples01.genruntimeconfig.cache
+C:\Study\Geekbrains\ProgramLanguages\Seminar4\Examples01\obj\Debug\net6.0\ref\Examples01.dll

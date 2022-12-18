@@ -9,7 +9,7 @@ for (int A = 1; A <= N; A ++)
 {
     if (A % 2 ==0)
     {
-        System.Console.Write($"Список четных чисел от 1 до {N});
+        System.Console.Write($"Список четных чисел от 1 до {N}");
         System.Console.WriteLine(A);
     }
 }

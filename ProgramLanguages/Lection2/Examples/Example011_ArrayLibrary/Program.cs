@@ -1,50 +1,48 @@
-﻿
-                            // Первый вариант 
+﻿int [] array = new int[10]; // Создаём массив и указываем его размер, который изначально заполняется нулями
+void FillArray(int [] collection) // Описываем метод заполнения массива
+{
+    int length = collection.Length; // задаём длину массива
+    int index = 0; // задаем индекс первого элемента
+    while(index < length) // условие, пока индекс меньше длины массива
+    {
+        collection[index] = new Random().Next(1, 10); // указываем как будем заполнять массив (рандомными числами от 1 до 10)
+        index++; // увеличиваем индекс на единицу (выбираем следующее число)
 
-int [] array = new int[10]; // Создаём массив, который изначально заполняется нулями
-void FillArray(int [] collection) // Метод, описывающий заполнение массива
+    }
+}
+
+void PrintArray(int[] collection) // Описываем метод вывода на консоль массива
 {
     int length = collection.Length;
-    int index = 0;
-    while(index < length)
+    int index = 0; 
+    while (index < length)
     {
-        collection[index] = new Random().Next(1, 10);
-        index++;
-
+        Console.WriteLine(collection[index]);
+        index ++;
     }
 }
 
-void PrintArray(int[] col) // col - название аргумента (переменной) вместо collection, просто надо привыкать называть по разному. Метод, описывающий вывод на печать массива (вывод на консоль)
-{
-    int count = col.Length;
-    int position = 0; // position == index - просто назвали по другому. 
-    while (position < count)
-    {
-        Console.WriteLine(col[position]);
-        position ++;
-    }
-}
-
-int IndexOf(int[] collection, int find) // Поиск индекса элемента массива, равного по значению с искомым
+int IndexOf(int[] collection, int find) // Описываем метод поиска индекса элемента массива, равного по значению с искомым
 {
     int count = collection.Length;
     int index = 0;
-    int position = 0; // int position = -1 - Выводит на консоль цифру -1, если элемент с искомым значением не найден 
+    int position = -1; // int position = -1 - Выводит на консоль цифру -1, если элемент с искомым значением не найден 
     while(index < count)
     {
         if (collection[index] == find)
         {
             position = index;
-            break;
+            break; // Останавливает поиск и выводит первый на консоль элемент с искомым значением (без этой команды выведет на печать последний элемент искомый)
         }
         index++;
     }
     return position;
 }
-FillArray(array); // Заполнить массив
-PrintArray(array); // Вывести массив на консоль
+FillArray(array); // Вызываем метод заполнения массива
+PrintArray(array); // Вызываем метод вывода массива на консоль
 Console.WriteLine(); // пустая строчка, не является частью вывода массива
-int pos = IndexOf(array, 4); // Искомое значение элемента
-Console.WriteLine(pos);
+int pos = IndexOf(array, 4); // Вызываем метод нахождения индекса элемента с искомым значением
+Console.WriteLine(pos); // Выводим на консоль 
+
 
 
