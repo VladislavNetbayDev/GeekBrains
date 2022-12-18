@@ -6,7 +6,7 @@
 
 Console.WriteLine("start");
 
-int a = 10;
+int a = 10;                          
 int b = 5;
 int max;
 
@@ -21,4 +21,4 @@ else
     max = b;
 }
 Console.WriteLine(max);
-Console.Write("end");
+Console.Write("end");                           
