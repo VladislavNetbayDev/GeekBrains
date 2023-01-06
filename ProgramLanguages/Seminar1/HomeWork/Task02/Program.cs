@@ -3,22 +3,11 @@
 // a = 2 b = 10 -> max = 10
 // a = -9 b = -3 -> max = -3
 
-
-Console.WriteLine("start");
-
-int a = 10;                          
-int b = 5;
-int max;
-
-
-
-if (a > b) 
-{
-    max = a;
-}
-else 
+int a = 5;
+int b = 7;
+int max = a;
+if (b > max)
 {
     max = b;
 }
-Console.WriteLine(max);
-Console.Write("end");                           
+System.Console.WriteLine(max);

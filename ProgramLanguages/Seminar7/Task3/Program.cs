@@ -1,4 +1,12 @@
-﻿int inputValue(string message)
+﻿// Задача 1: Задайте двумерный массив размера m на n, 
+// каждый элемент в массиве находится по формуле: 
+// Aₘₙ = m+n. Выведите полученный массив на экран.
+// m = 3, n = 4.
+// 0 1 2 3
+// 1 2 3 4
+// 2 3 4 5
+
+int inputValue(string message)
 {
     System.Console.WriteLine($"{message}");
     return Convert.ToInt32(Console.ReadLine());
@@ -29,4 +37,3 @@ void PrintArrayTwo(int[,] matr)
 int m = inputValue("input count string: ");
 int n = inputValue("Input count stolbcov: ");
 PrintArrayTwo(FillCreateArray(m, n));
-остановилсчя на 48:50

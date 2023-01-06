@@ -5,9 +5,9 @@
 // 1213-> 3 
 // 845 -> 8
 
-int value = new Random().Next(10, 9999); // Вводим переменную выбора случайного числа в промежутке от 10 до 99
-System.Console.WriteLine(value);
-
+// int value = new Random().Next(10, 9999); // Вводим переменную выбора случайного числа в промежутке от 10 до 99
+// System.Console.WriteLine(value);
+int value = 7812;
 int max = 0;
 while (value > 0)
 {

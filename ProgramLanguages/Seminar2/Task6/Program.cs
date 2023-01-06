@@ -13,12 +13,12 @@ double sum = 0.0;
 
 int count = inputValue("add count: ");
 int index = 0;
- while (index < count)
- {
+while (index < count)
+{
     int value = inputValue($"add {index} number");
     sum = sum + value;
     index++;
- }
+}
 double avg = sum / index;
 System.Console.WriteLine($"sum = {sum}");
 System.Console.WriteLine($"average = {avg:f2}");

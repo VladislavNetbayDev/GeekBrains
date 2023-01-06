@@ -17,7 +17,7 @@ int [] GenerateArray(int Length, int minRange, int maxRange)
     int [] array = new int[Length]; 
     for (int i = 0; i < array.Length; i++)
     {
-        array[i] = new Random().Next(minRange, maxRange+1);
+        array[i] = new Random().Next(minRange, maxRange);
     }
     return array;
 }

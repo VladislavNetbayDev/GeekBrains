@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Geekbrains\\dotnet\\Lesson01\\homework\\Task02\\Task02.csproj": {}
+    "C:\\Study\\Geekbrains\\ProgramLanguages\\Seminar1\\HomeWork\\Task02\\Task02.csproj": {}
   },
   "projects": {
-    "C:\\Geekbrains\\dotnet\\Lesson01\\homework\\Task02\\Task02.csproj": {
+    "C:\\Study\\Geekbrains\\ProgramLanguages\\Seminar1\\HomeWork\\Task02\\Task02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Geekbrains\\dotnet\\Lesson01\\homework\\Task02\\Task02.csproj",
+        "projectUniqueName": "C:\\Study\\Geekbrains\\ProgramLanguages\\Seminar1\\HomeWork\\Task02\\Task02.csproj",
         "projectName": "Task02",
-        "projectPath": "C:\\Geekbrains\\dotnet\\Lesson01\\homework\\Task02\\Task02.csproj",
+        "projectPath": "C:\\Study\\Geekbrains\\ProgramLanguages\\Seminar1\\HomeWork\\Task02\\Task02.csproj",
         "packagesPath": "C:\\Users\\qwert\\.nuget\\packages\\",
-        "outputPath": "C:\\Geekbrains\\dotnet\\Lesson01\\homework\\Task02\\obj\\",
+        "outputPath": "C:\\Study\\Geekbrains\\ProgramLanguages\\Seminar1\\HomeWork\\Task02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\qwert\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
