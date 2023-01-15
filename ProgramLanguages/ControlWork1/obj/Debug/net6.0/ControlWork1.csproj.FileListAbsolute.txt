@@ -1,0 +1,15 @@
+C:\Study\Geekbrains\Programming\ProgramLanguages\ControlWork1\bin\Debug\net6.0\ControlWork1.exe
+C:\Study\Geekbrains\Programming\ProgramLanguages\ControlWork1\bin\Debug\net6.0\ControlWork1.deps.json
+C:\Study\Geekbrains\Programming\ProgramLanguages\ControlWork1\bin\Debug\net6.0\ControlWork1.runtimeconfig.json
+C:\Study\Geekbrains\Programming\ProgramLanguages\ControlWork1\bin\Debug\net6.0\ControlWork1.dll
+C:\Study\Geekbrains\Programming\ProgramLanguages\ControlWork1\bin\Debug\net6.0\ControlWork1.pdb
+C:\Study\Geekbrains\Programming\ProgramLanguages\ControlWork1\obj\Debug\net6.0\ControlWork1.csproj.AssemblyReference.cache
+C:\Study\Geekbrains\Programming\ProgramLanguages\ControlWork1\obj\Debug\net6.0\ControlWork1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\Geekbrains\Programming\ProgramLanguages\ControlWork1\obj\Debug\net6.0\ControlWork1.AssemblyInfoInputs.cache
+C:\Study\Geekbrains\Programming\ProgramLanguages\ControlWork1\obj\Debug\net6.0\ControlWork1.AssemblyInfo.cs
+C:\Study\Geekbrains\Programming\ProgramLanguages\ControlWork1\obj\Debug\net6.0\ControlWork1.csproj.CoreCompileInputs.cache
+C:\Study\Geekbrains\Programming\ProgramLanguages\ControlWork1\obj\Debug\net6.0\ControlWork1.dll
+C:\Study\Geekbrains\Programming\ProgramLanguages\ControlWork1\obj\Debug\net6.0\refint\ControlWork1.dll
+C:\Study\Geekbrains\Programming\ProgramLanguages\ControlWork1\obj\Debug\net6.0\ControlWork1.pdb
+C:\Study\Geekbrains\Programming\ProgramLanguages\ControlWork1\obj\Debug\net6.0\ControlWork1.genruntimeconfig.cache
+C:\Study\Geekbrains\Programming\ProgramLanguages\ControlWork1\obj\Debug\net6.0\ref\ControlWork1.dll
