@@ -27,3 +27,5 @@ void PrintArray(string[] array) // Задаем функцию вывода ма
     }
     Console.WriteLine();
 }
+ArrayOfStrings(arrayStart, arrayFinish); // Вызываем функцию поиска строк
+PrintArray(arrayFinish); // Вызываем функцию вывода массива 
